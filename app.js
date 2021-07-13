@@ -18,7 +18,7 @@ function checkNumber(){
     let phoneNumber = inputVal 
 
     if(!inputVal){
-        alert("Please enter a phone numner.")
+        alert("Please enter a phone number.")
          msg.style.display=none
 
     }
